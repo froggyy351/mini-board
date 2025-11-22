@@ -1,0 +1,10 @@
+{"id":"me","msg":"whats up!!"}
+{"id":"me","msg":"こんにちは"}
+{"id":"me","msg":"whats up!!"}
+{"id":"me","msg":"こんにちは"}
+{"id":"me","msg":"こんにちは"}
+{"id":"me","msg":""}
+{"id":"me","msg":"こんにちは"}
+{"id":"me","msg":"こんにちは"}
+{"id":"me","msg":"whats up!!"}
+{"id":"sako","msg":"こんちは"}
